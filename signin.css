@@ -1,0 +1,27 @@
+body{text-align: center;
+     background-color: brown;
+     
+}
+form{
+    background-color: aqua;
+}
+input{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    width:250px;
+    height:30px;
+    
+}
+button{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+button{width: 250px;
+       height: 30px;
+       border-radius: 1px;
+       ;
+}
+p{font-size: small;}
+div{font-size:large;}
